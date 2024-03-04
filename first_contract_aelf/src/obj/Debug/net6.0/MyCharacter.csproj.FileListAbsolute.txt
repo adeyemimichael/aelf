@@ -1,0 +1,2 @@
+/workspaces/aelf/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.AssemblyReference.cache
+/workspaces/aelf/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
